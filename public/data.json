@@ -1,0 +1,35 @@
+{
+    "data": [
+      {
+        "duration": "1 Month",
+        "marketPriceChange": "-23.98%",
+        "rmcChange": "-3.98%"
+      },
+      {
+        "duration": "3 Months",
+        "marketPriceChange": "-12.65%",
+        "rmcChange": "-0.32%"
+      },
+      {
+        "duration": "6 Months",
+        "marketPriceChange": "-0.93%",
+        "rmcChange": "-5.62%"
+      },
+      {
+        "duration": "1 Year",
+        "marketPriceChange": "-30.24%",
+        "rmcChange": "-14.76%"
+      },
+      {
+        "duration": "3 Years",
+        "marketPriceChange": "-25.44%",
+        "rmcChange": "-22.18%"
+      },
+      {
+        "duration": "5 Years",
+        "marketPriceChange": "-43.36%",
+        "rmcChange": "-32.15%"
+      }
+    ]
+  }
+  
