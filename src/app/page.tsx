@@ -1,10 +1,10 @@
 "use client"
 import React from 'react'
-import Sidebar from '../app/sidebar/page'
+import PieChart from '../pages/piechart/page'
 const page = () => {
   return (
     <div>
-     <Sidebar/>
+  <PieChart/>
     </div>
   )
 }
